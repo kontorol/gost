@@ -4,9 +4,9 @@ go 1.18
 
 replace github.com/templexxx/cpu v0.0.7 => github.com/templexxx/cpu v0.0.10-0.20211111114238-98168dcec14a
 
-replace github.com/go-gost/core => github.com/kontorol/core v0.0.0-20221019005438-9773264fb7a3
+replace github.com/go-gost/core => github.com/kontorol/core v0.0.0-20221019015210-8fb45e4c47da
 
-replace github.com/go-gost/x => github.com/kontorol/x v0.0.0-20221019005653-cefef77433e9
+replace github.com/go-gost/x => github.com/kontorol/x v0.0.0-20221019015623-90f61bebcd86
 
 require (
 	github.com/go-gost/core v0.0.0-20220928034632-6e7a8f461903
