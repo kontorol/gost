@@ -236,10 +236,10 @@ github.com/klauspost/reedsolomon v1.9.9 h1:qCL7LZlv17xMixl55nq2/Oa1Y86nfO8EqDfv2
 github.com/klauspost/reedsolomon v1.9.9/go.mod h1:O7yFFHiQwDR6b2t63KPUpccPtNdp5ADgh1gg4fd12wo=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.3/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
-github.com/kontorol/core v0.0.0-20221019000459-27550f54133e h1:tRVC8TeuNZXMfcaVU/MD3NNlrBFvF+HrFMPMar2M/dU=
-github.com/kontorol/core v0.0.0-20221019000459-27550f54133e/go.mod h1:qb64Mca+0MTKtIiQewfj7C+BE/3T8G+PvrQtO1kTJVk=
-github.com/kontorol/x v0.0.0-20221019000957-a3bbc3235a6d h1:h0jW4YIOeCSdcL0d49yq03v4btKYu0AIdXTADeZORVc=
-github.com/kontorol/x v0.0.0-20221019000957-a3bbc3235a6d/go.mod h1:OHtzC5ckrf21Kqq6SA8lKxVt+KrZG9g39HPXy/3cn0I=
+github.com/kontorol/core v0.0.0-20221019005438-9773264fb7a3 h1:pksfrCuZyqtoBU8EyHyQ7kESpkvTM8wOZm7fe5fenLw=
+github.com/kontorol/core v0.0.0-20221019005438-9773264fb7a3/go.mod h1:qb64Mca+0MTKtIiQewfj7C+BE/3T8G+PvrQtO1kTJVk=
+github.com/kontorol/x v0.0.0-20221019005653-cefef77433e9 h1:cyTN/bAe82pgGXzJS7rJ0jE5pCipEUWmwsbQ7JyABTw=
+github.com/kontorol/x v0.0.0-20221019005653-cefef77433e9/go.mod h1:fS8SVXqSsNV+aOyxBU1y17/9EEg1VpVs2p4VNUpkQfw=
 github.com/kr/fs v0.1.0/go.mod h1:FFnZGqtBN9Gxj7eW1uZ42v5BccTP0vu6NEaFoC2HwRg=
 github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515/go.mod h1:+0opPa2QZZtGFBFZlji/RkVcI2GknAs/DXo4wKdlNEc=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
